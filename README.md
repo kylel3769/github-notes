@@ -6,10 +6,6 @@
 * Git is useful for collaboration
 * Can be used to keep track of information 
 * Good for version control
-* 
-* 
-* 
-* 
 
 ## Github
 * Git is useful for collaboration
@@ -20,4 +16,5 @@
 * Repos can't have spaces in their name
 * .txt makes a text repo
 * Instead of saving, you "commit"
-*  
+* A commit hash is a unique string of numbers and letters
+* Github uses git in every project
